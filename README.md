@@ -23,10 +23,10 @@ Requirements and environment files are in `env/`
 `supplement/`: scripts for some appendix experiments<br>
 
 ### External libraries
-Geometry score, modified to include Wasserstein features: `gs/` <br>
-Disentanglement VAEs lib: `disentangling_vae/` <br>
-Pytorch GAN zoo: `models/` <br>
-StyleGAN resources: `alae/` <br>
+[Geometry score](https://github.com/KhrulkovV/geometry-score), modified to include Wasserstein features: `gs/` <br>
+[Disentanglement VAEs lib](https://github.com/YannDubs/disentangling-vae): `disentangling_vae/` <br>
+[Pytorch GAN zoo](https://github.com/facebookresearch/pytorch_GAN_zoo): `models/` <br>
+[StyleGAN resources](https://github.com/podgorskiy/ALAE): `alae/` <br>
 Various CelebA GAN implementations: `celeba_gan/` <br>
 
 ### Deprecated
